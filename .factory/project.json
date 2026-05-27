@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "name": "daily-curio",
+  "domains": {
+    "prod": "daily-curio.apps.deploymill.com",
+    "previews": true
+  },
+  "mounts": [],
+  "rollback": false
+}
